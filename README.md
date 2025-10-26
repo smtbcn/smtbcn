@@ -1,9 +1,8 @@
-Hello, my name is Samet.
+Hello, my name is Samet BİÇEN.
+I’m a freelance web developer specialized in backend and full-stack development.
 
-I am a freelance web developer.
+I occasionally write articles about web technologies, databases, and performance optimization — you can check them out if you’re interested (though they’re currently available only in Turkish).
 
-I am also writing some articles about web development. So if you're interested, you can read it here. But unfortunately it's only in Turkish for now :/
+My journey began in 2010 with HTML and CSS, followed by Classic ASP and MySQL in 2011. Over the years, I’ve built and managed numerous web applications for both clients and my own projects.
 
-I started with HTML and CSS in 2010. I learned ASP and MySQL in 2011. I started learning Javascript a while ago.
-My current passion is now Javascript.
-Since 2011 I have been developing many web projects for my clients and myself.
+Recently, my main focus has shifted towards JavaScript and modern web ecosystems — continuously improving performance, scalability, and user experience in my projects.
