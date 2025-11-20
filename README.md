@@ -1,4 +1,5 @@
 Hello, my name is Samet BİÇEN.
+
 I’m a software developer primarily focused on backend technologies. I’ve been working with web technologies for many years, developing modern applications using Classic ASP, MySQL, PHP, .NET, JavaScript, and various frontend tools.
 
 My programming journey began in 2010 with HTML and CSS, followed by Classic ASP and MySQL in 2011. Since then, I’ve built and managed numerous web applications — both for clients and for my own projects.
